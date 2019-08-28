@@ -1,0 +1,11 @@
+/Users/asido/Documents/ICE02/Part3/bin/Debug/netcoreapp2.1/Part3.deps.json
+/Users/asido/Documents/ICE02/Part3/bin/Debug/netcoreapp2.1/Part3.runtimeconfig.json
+/Users/asido/Documents/ICE02/Part3/bin/Debug/netcoreapp2.1/Part3.runtimeconfig.dev.json
+/Users/asido/Documents/ICE02/Part3/bin/Debug/netcoreapp2.1/Part3.dll
+/Users/asido/Documents/ICE02/Part3/bin/Debug/netcoreapp2.1/Part3.pdb
+/Users/asido/Documents/ICE02/Part3/obj/Debug/netcoreapp2.1/Part3.csprojAssemblyReference.cache
+/Users/asido/Documents/ICE02/Part3/obj/Debug/netcoreapp2.1/Part3.csproj.CoreCompileInputs.cache
+/Users/asido/Documents/ICE02/Part3/obj/Debug/netcoreapp2.1/Part3.AssemblyInfoInputs.cache
+/Users/asido/Documents/ICE02/Part3/obj/Debug/netcoreapp2.1/Part3.AssemblyInfo.cs
+/Users/asido/Documents/ICE02/Part3/obj/Debug/netcoreapp2.1/Part3.dll
+/Users/asido/Documents/ICE02/Part3/obj/Debug/netcoreapp2.1/Part3.pdb
